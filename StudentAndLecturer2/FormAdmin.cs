@@ -1,4 +1,5 @@
-﻿using System;
+﻿using StudentAndLecturer2.Properties;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +16,11 @@ namespace StudentAndLecturer2
         public FormAdmin()
         {
             InitializeComponent();
+        }
+
+        private void backToMenuToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            trash.BackToMenu();
         }
     }
 }

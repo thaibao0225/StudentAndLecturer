@@ -65,6 +65,7 @@
             this.button4 = new System.Windows.Forms.Button();
             this.label23 = new System.Windows.Forms.Label();
             this.groupBox6 = new System.Windows.Forms.GroupBox();
+            this.button12 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
             this.textBox12 = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
@@ -83,7 +84,15 @@
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.label10 = new System.Windows.Forms.Label();
             this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.groupBox9 = new System.Windows.Forms.GroupBox();
+            this.dataGridView3 = new System.Windows.Forms.DataGridView();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.button11 = new System.Windows.Forms.Button();
+            this.textBox21 = new System.Windows.Forms.TextBox();
+            this.button8 = new System.Windows.Forms.Button();
+            this.button9 = new System.Windows.Forms.Button();
+            this.button10 = new System.Windows.Forms.Button();
+            this.button7 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.label12 = new System.Windows.Forms.Label();
             this.tabControl1 = new System.Windows.Forms.TabControl();
@@ -99,15 +108,6 @@
             this.adminToolStripMenuItem2 = new System.Windows.Forms.ToolStripMenuItem();
             this.backToMenuToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.groupBox9 = new System.Windows.Forms.GroupBox();
-            this.dataGridView3 = new System.Windows.Forms.DataGridView();
-            this.button7 = new System.Windows.Forms.Button();
-            this.textBox21 = new System.Windows.Forms.TextBox();
-            this.button8 = new System.Windows.Forms.Button();
-            this.button9 = new System.Windows.Forms.Button();
-            this.button10 = new System.Windows.Forms.Button();
-            this.button11 = new System.Windows.Forms.Button();
-            this.button12 = new System.Windows.Forms.Button();
             this.groupBox5.SuspendLayout();
             this.groupBox4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
@@ -117,14 +117,14 @@
             this.groupBox6.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.tabPage1.SuspendLayout();
+            this.groupBox9.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView3)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.tabControl1.SuspendLayout();
             this.tabPage3.SuspendLayout();
             this.tabPage2.SuspendLayout();
             this.groupBox3.SuspendLayout();
             this.menuStrip1.SuspendLayout();
-            this.groupBox9.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView3)).BeginInit();
             this.SuspendLayout();
             // 
             // button3
@@ -460,6 +460,15 @@
             this.groupBox6.TabStop = false;
             this.groupBox6.Text = "Control";
             // 
+            // button12
+            // 
+            this.button12.Location = new System.Drawing.Point(73, 142);
+            this.button12.Name = "button12";
+            this.button12.Size = new System.Drawing.Size(151, 23);
+            this.button12.TabIndex = 14;
+            this.button12.Text = "Delete";
+            this.button12.UseVisualStyleBackColor = true;
+            // 
             // button6
             // 
             this.button6.Location = new System.Drawing.Point(73, 111);
@@ -623,6 +632,26 @@
             this.tabPage1.Text = "Lecturer";
             this.tabPage1.UseVisualStyleBackColor = true;
             // 
+            // groupBox9
+            // 
+            this.groupBox9.Controls.Add(this.dataGridView3);
+            this.groupBox9.Location = new System.Drawing.Point(16, 274);
+            this.groupBox9.Name = "groupBox9";
+            this.groupBox9.Size = new System.Drawing.Size(788, 199);
+            this.groupBox9.TabIndex = 5;
+            this.groupBox9.TabStop = false;
+            this.groupBox9.Text = "List Lecturer";
+            // 
+            // dataGridView3
+            // 
+            this.dataGridView3.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView3.Location = new System.Drawing.Point(6, 26);
+            this.dataGridView3.Name = "dataGridView3";
+            this.dataGridView3.RowHeadersWidth = 51;
+            this.dataGridView3.RowTemplate.Height = 24;
+            this.dataGridView3.Size = new System.Drawing.Size(776, 163);
+            this.dataGridView3.TabIndex = 0;
+            // 
             // groupBox1
             // 
             this.groupBox1.Controls.Add(this.button11);
@@ -639,6 +668,58 @@
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Control";
+            // 
+            // button11
+            // 
+            this.button11.Location = new System.Drawing.Point(73, 142);
+            this.button11.Name = "button11";
+            this.button11.Size = new System.Drawing.Size(151, 23);
+            this.button11.TabIndex = 13;
+            this.button11.Text = "Delete";
+            this.button11.UseVisualStyleBackColor = true;
+            // 
+            // textBox21
+            // 
+            this.textBox21.Location = new System.Drawing.Point(132, 31);
+            this.textBox21.Name = "textBox21";
+            this.textBox21.Size = new System.Drawing.Size(157, 22);
+            this.textBox21.TabIndex = 12;
+            // 
+            // button8
+            // 
+            this.button8.Location = new System.Drawing.Point(73, 111);
+            this.button8.Name = "button8";
+            this.button8.Size = new System.Drawing.Size(151, 23);
+            this.button8.TabIndex = 11;
+            this.button8.Text = "Edit information";
+            this.button8.UseVisualStyleBackColor = true;
+            // 
+            // button9
+            // 
+            this.button9.Location = new System.Drawing.Point(73, 78);
+            this.button9.Name = "button9";
+            this.button9.Size = new System.Drawing.Size(151, 23);
+            this.button9.TabIndex = 10;
+            this.button9.Text = "Add new Lecturer";
+            this.button9.UseVisualStyleBackColor = true;
+            // 
+            // button10
+            // 
+            this.button10.Location = new System.Drawing.Point(51, 30);
+            this.button10.Name = "button10";
+            this.button10.Size = new System.Drawing.Size(75, 23);
+            this.button10.TabIndex = 9;
+            this.button10.Text = "Search ";
+            this.button10.UseVisualStyleBackColor = true;
+            // 
+            // button7
+            // 
+            this.button7.Location = new System.Drawing.Point(68, 36);
+            this.button7.Name = "button7";
+            this.button7.Size = new System.Drawing.Size(0, 0);
+            this.button7.TabIndex = 2;
+            this.button7.Text = "Edit information";
+            this.button7.UseVisualStyleBackColor = true;
             // 
             // button1
             // 
@@ -761,113 +842,33 @@
             // adminToolStripMenuItem
             // 
             this.adminToolStripMenuItem.Name = "adminToolStripMenuItem";
-            this.adminToolStripMenuItem.Size = new System.Drawing.Size(186, 26);
+            this.adminToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.adminToolStripMenuItem.Text = "Student";
             // 
             // adminToolStripMenuItem1
             // 
             this.adminToolStripMenuItem1.Name = "adminToolStripMenuItem1";
-            this.adminToolStripMenuItem1.Size = new System.Drawing.Size(186, 26);
+            this.adminToolStripMenuItem1.Size = new System.Drawing.Size(224, 26);
             this.adminToolStripMenuItem1.Text = "Lecturer";
             // 
             // adminToolStripMenuItem2
             // 
             this.adminToolStripMenuItem2.Name = "adminToolStripMenuItem2";
-            this.adminToolStripMenuItem2.Size = new System.Drawing.Size(186, 26);
+            this.adminToolStripMenuItem2.Size = new System.Drawing.Size(224, 26);
             this.adminToolStripMenuItem2.Text = "Admin";
             // 
             // backToMenuToolStripMenuItem
             // 
             this.backToMenuToolStripMenuItem.Name = "backToMenuToolStripMenuItem";
-            this.backToMenuToolStripMenuItem.Size = new System.Drawing.Size(186, 26);
+            this.backToMenuToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.backToMenuToolStripMenuItem.Text = "Back to menu ";
+            this.backToMenuToolStripMenuItem.Click += new System.EventHandler(this.backToMenuToolStripMenuItem_Click);
             // 
             // exitToolStripMenuItem
             // 
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
             this.exitToolStripMenuItem.Size = new System.Drawing.Size(47, 24);
             this.exitToolStripMenuItem.Text = "Exit";
-            // 
-            // groupBox9
-            // 
-            this.groupBox9.Controls.Add(this.dataGridView3);
-            this.groupBox9.Location = new System.Drawing.Point(16, 274);
-            this.groupBox9.Name = "groupBox9";
-            this.groupBox9.Size = new System.Drawing.Size(788, 199);
-            this.groupBox9.TabIndex = 5;
-            this.groupBox9.TabStop = false;
-            this.groupBox9.Text = "List Lecturer";
-            // 
-            // dataGridView3
-            // 
-            this.dataGridView3.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView3.Location = new System.Drawing.Point(6, 26);
-            this.dataGridView3.Name = "dataGridView3";
-            this.dataGridView3.RowHeadersWidth = 51;
-            this.dataGridView3.RowTemplate.Height = 24;
-            this.dataGridView3.Size = new System.Drawing.Size(776, 163);
-            this.dataGridView3.TabIndex = 0;
-            // 
-            // button7
-            // 
-            this.button7.Location = new System.Drawing.Point(68, 36);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(0, 0);
-            this.button7.TabIndex = 2;
-            this.button7.Text = "Edit information";
-            this.button7.UseVisualStyleBackColor = true;
-            // 
-            // textBox21
-            // 
-            this.textBox21.Location = new System.Drawing.Point(132, 31);
-            this.textBox21.Name = "textBox21";
-            this.textBox21.Size = new System.Drawing.Size(157, 22);
-            this.textBox21.TabIndex = 12;
-            // 
-            // button8
-            // 
-            this.button8.Location = new System.Drawing.Point(73, 111);
-            this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(151, 23);
-            this.button8.TabIndex = 11;
-            this.button8.Text = "Edit information";
-            this.button8.UseVisualStyleBackColor = true;
-            // 
-            // button9
-            // 
-            this.button9.Location = new System.Drawing.Point(73, 78);
-            this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(151, 23);
-            this.button9.TabIndex = 10;
-            this.button9.Text = "Add new Lecturer";
-            this.button9.UseVisualStyleBackColor = true;
-            // 
-            // button10
-            // 
-            this.button10.Location = new System.Drawing.Point(51, 30);
-            this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(75, 23);
-            this.button10.TabIndex = 9;
-            this.button10.Text = "Search ";
-            this.button10.UseVisualStyleBackColor = true;
-            // 
-            // button11
-            // 
-            this.button11.Location = new System.Drawing.Point(73, 142);
-            this.button11.Name = "button11";
-            this.button11.Size = new System.Drawing.Size(151, 23);
-            this.button11.TabIndex = 13;
-            this.button11.Text = "Delete";
-            this.button11.UseVisualStyleBackColor = true;
-            // 
-            // button12
-            // 
-            this.button12.Location = new System.Drawing.Point(73, 142);
-            this.button12.Name = "button12";
-            this.button12.Size = new System.Drawing.Size(151, 23);
-            this.button12.TabIndex = 14;
-            this.button12.Text = "Delete";
-            this.button12.UseVisualStyleBackColor = true;
             // 
             // FormAdmin
             // 
@@ -891,6 +892,8 @@
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
             this.tabPage1.ResumeLayout(false);
+            this.groupBox9.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView3)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.tabControl1.ResumeLayout(false);
@@ -900,8 +903,6 @@
             this.groupBox3.PerformLayout();
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
-            this.groupBox9.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView3)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
