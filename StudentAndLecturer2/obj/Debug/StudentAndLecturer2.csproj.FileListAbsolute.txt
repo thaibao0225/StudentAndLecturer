@@ -1,0 +1,14 @@
+C:\Users\QuynhNhu\source\repos\StudentAndLecturer2\StudentAndLecturer2\bin\Debug\StudentAndLecturer2.exe.config
+C:\Users\QuynhNhu\source\repos\StudentAndLecturer2\StudentAndLecturer2\bin\Debug\StudentAndLecturer2.exe
+C:\Users\QuynhNhu\source\repos\StudentAndLecturer2\StudentAndLecturer2\bin\Debug\StudentAndLecturer2.pdb
+C:\Users\QuynhNhu\source\repos\StudentAndLecturer2\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.csprojAssemblyReference.cache
+C:\Users\QuynhNhu\source\repos\StudentAndLecturer2\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.Form1.resources
+C:\Users\QuynhNhu\source\repos\StudentAndLecturer2\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.Properties.Resources.resources
+C:\Users\QuynhNhu\source\repos\StudentAndLecturer2\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.csproj.GenerateResource.cache
+C:\Users\QuynhNhu\source\repos\StudentAndLecturer2\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.csproj.CoreCompileInputs.cache
+C:\Users\QuynhNhu\source\repos\StudentAndLecturer2\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.exe
+C:\Users\QuynhNhu\source\repos\StudentAndLecturer2\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.pdb
+C:\Users\QuynhNhu\source\repos\StudentAndLecturer2\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.Menu.resources
+C:\Users\QuynhNhu\source\repos\StudentAndLecturer2\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.FormAdmin.resources
+C:\Users\QuynhNhu\source\repos\StudentAndLecturer2\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.Lecturer.resources
+C:\Users\QuynhNhu\source\repos\StudentAndLecturer2\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.Student.resources
