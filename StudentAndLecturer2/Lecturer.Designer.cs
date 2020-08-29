@@ -118,9 +118,9 @@
             this.tabPage3.Controls.Add(this.groupBox5);
             this.tabPage3.Controls.Add(this.groupBox6);
             this.tabPage3.Location = new System.Drawing.Point(4, 25);
-            this.tabPage3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tabPage3.Margin = new System.Windows.Forms.Padding(2);
             this.tabPage3.Name = "tabPage3";
-            this.tabPage3.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tabPage3.Padding = new System.Windows.Forms.Padding(2);
             this.tabPage3.Size = new System.Drawing.Size(620, 497);
             this.tabPage3.TabIndex = 2;
             this.tabPage3.Text = "Student";
@@ -130,9 +130,9 @@
             // 
             this.groupBox7.Controls.Add(this.dataGridView1);
             this.groupBox7.Location = new System.Drawing.Point(12, 344);
-            this.groupBox7.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox7.Margin = new System.Windows.Forms.Padding(2);
             this.groupBox7.Name = "groupBox7";
-            this.groupBox7.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox7.Padding = new System.Windows.Forms.Padding(2);
             this.groupBox7.Size = new System.Drawing.Size(591, 154);
             this.groupBox7.TabIndex = 4;
             this.groupBox7.TabStop = false;
@@ -142,7 +142,7 @@
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(4, 16);
-            this.dataGridView1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dataGridView1.Margin = new System.Windows.Forms.Padding(2);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
@@ -169,9 +169,9 @@
             this.groupBox5.Controls.Add(this.label21);
             this.groupBox5.Controls.Add(this.label22);
             this.groupBox5.Location = new System.Drawing.Point(268, 18);
-            this.groupBox5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox5.Margin = new System.Windows.Forms.Padding(2);
             this.groupBox5.Name = "groupBox5";
-            this.groupBox5.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox5.Padding = new System.Windows.Forms.Padding(2);
             this.groupBox5.Size = new System.Drawing.Size(334, 327);
             this.groupBox5.TabIndex = 3;
             this.groupBox5.TabStop = false;
@@ -190,7 +190,7 @@
             // txtAcIdStu
             // 
             this.txtAcIdStu.Location = new System.Drawing.Point(158, 214);
-            this.txtAcIdStu.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtAcIdStu.Margin = new System.Windows.Forms.Padding(2);
             this.txtAcIdStu.Name = "txtAcIdStu";
             this.txtAcIdStu.Size = new System.Drawing.Size(145, 20);
             this.txtAcIdStu.TabIndex = 15;
@@ -208,7 +208,7 @@
             // txtPassStu
             // 
             this.txtPassStu.Location = new System.Drawing.Point(158, 184);
-            this.txtPassStu.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtPassStu.Margin = new System.Windows.Forms.Padding(2);
             this.txtPassStu.Name = "txtPassStu";
             this.txtPassStu.Size = new System.Drawing.Size(145, 20);
             this.txtPassStu.TabIndex = 13;
@@ -216,7 +216,7 @@
             // txtUserNameStu
             // 
             this.txtUserNameStu.Location = new System.Drawing.Point(158, 158);
-            this.txtUserNameStu.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtUserNameStu.Margin = new System.Windows.Forms.Padding(2);
             this.txtUserNameStu.Name = "txtUserNameStu";
             this.txtUserNameStu.Size = new System.Drawing.Size(145, 20);
             this.txtUserNameStu.TabIndex = 12;
@@ -224,7 +224,7 @@
             // txtStuAddStu
             // 
             this.txtStuAddStu.Location = new System.Drawing.Point(158, 132);
-            this.txtStuAddStu.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtStuAddStu.Margin = new System.Windows.Forms.Padding(2);
             this.txtStuAddStu.Name = "txtStuAddStu";
             this.txtStuAddStu.Size = new System.Drawing.Size(145, 20);
             this.txtStuAddStu.TabIndex = 11;
@@ -232,7 +232,7 @@
             // txtStuEmailStu
             // 
             this.txtStuEmailStu.Location = new System.Drawing.Point(158, 106);
-            this.txtStuEmailStu.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtStuEmailStu.Margin = new System.Windows.Forms.Padding(2);
             this.txtStuEmailStu.Name = "txtStuEmailStu";
             this.txtStuEmailStu.Size = new System.Drawing.Size(145, 20);
             this.txtStuEmailStu.TabIndex = 10;
@@ -240,7 +240,7 @@
             // txtStuDateStu
             // 
             this.txtStuDateStu.Location = new System.Drawing.Point(158, 80);
-            this.txtStuDateStu.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtStuDateStu.Margin = new System.Windows.Forms.Padding(2);
             this.txtStuDateStu.Name = "txtStuDateStu";
             this.txtStuDateStu.Size = new System.Drawing.Size(145, 20);
             this.txtStuDateStu.TabIndex = 9;
@@ -248,7 +248,7 @@
             // txtStuNameStu
             // 
             this.txtStuNameStu.Location = new System.Drawing.Point(158, 54);
-            this.txtStuNameStu.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtStuNameStu.Margin = new System.Windows.Forms.Padding(2);
             this.txtStuNameStu.Name = "txtStuNameStu";
             this.txtStuNameStu.Size = new System.Drawing.Size(145, 20);
             this.txtStuNameStu.TabIndex = 8;
@@ -256,7 +256,7 @@
             // txtStuIDStu
             // 
             this.txtStuIDStu.Location = new System.Drawing.Point(158, 28);
-            this.txtStuIDStu.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtStuIDStu.Margin = new System.Windows.Forms.Padding(2);
             this.txtStuIDStu.Name = "txtStuIDStu";
             this.txtStuIDStu.Size = new System.Drawing.Size(145, 20);
             this.txtStuIDStu.TabIndex = 7;
@@ -330,9 +330,9 @@
             this.groupBox6.Controls.Add(this.btnsearchStu);
             this.groupBox6.Controls.Add(this.label23);
             this.groupBox6.Location = new System.Drawing.Point(12, 18);
-            this.groupBox6.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox6.Margin = new System.Windows.Forms.Padding(2);
             this.groupBox6.Name = "groupBox6";
-            this.groupBox6.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox6.Padding = new System.Windows.Forms.Padding(2);
             this.groupBox6.Size = new System.Drawing.Size(243, 321);
             this.groupBox6.TabIndex = 2;
             this.groupBox6.TabStop = false;
@@ -362,7 +362,7 @@
             // 
             this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView2.Location = new System.Drawing.Point(0, 103);
-            this.dataGridView2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dataGridView2.Margin = new System.Windows.Forms.Padding(2);
             this.dataGridView2.Name = "dataGridView2";
             this.dataGridView2.RowHeadersWidth = 51;
             this.dataGridView2.RowTemplate.Height = 24;
@@ -372,7 +372,7 @@
             // txtSearchStu
             // 
             this.txtSearchStu.Location = new System.Drawing.Point(99, 25);
-            this.txtSearchStu.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtSearchStu.Margin = new System.Windows.Forms.Padding(2);
             this.txtSearchStu.Name = "txtSearchStu";
             this.txtSearchStu.Size = new System.Drawing.Size(119, 20);
             this.txtSearchStu.TabIndex = 8;
@@ -380,7 +380,7 @@
             // btnsearchStu
             // 
             this.btnsearchStu.Location = new System.Drawing.Point(38, 24);
-            this.btnsearchStu.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnsearchStu.Margin = new System.Windows.Forms.Padding(2);
             this.btnsearchStu.Name = "btnsearchStu";
             this.btnsearchStu.Size = new System.Drawing.Size(56, 19);
             this.btnsearchStu.TabIndex = 1;
@@ -400,7 +400,7 @@
             // txtAddLec
             // 
             this.txtAddLec.Location = new System.Drawing.Point(158, 132);
-            this.txtAddLec.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtAddLec.Margin = new System.Windows.Forms.Padding(2);
             this.txtAddLec.Name = "txtAddLec";
             this.txtAddLec.Size = new System.Drawing.Size(145, 20);
             this.txtAddLec.TabIndex = 11;
@@ -408,7 +408,7 @@
             // txtMailLec
             // 
             this.txtMailLec.Location = new System.Drawing.Point(158, 106);
-            this.txtMailLec.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtMailLec.Margin = new System.Windows.Forms.Padding(2);
             this.txtMailLec.Name = "txtMailLec";
             this.txtMailLec.Size = new System.Drawing.Size(145, 20);
             this.txtMailLec.TabIndex = 10;
@@ -416,7 +416,7 @@
             // txtDateLec
             // 
             this.txtDateLec.Location = new System.Drawing.Point(158, 80);
-            this.txtDateLec.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtDateLec.Margin = new System.Windows.Forms.Padding(2);
             this.txtDateLec.Name = "txtDateLec";
             this.txtDateLec.Size = new System.Drawing.Size(145, 20);
             this.txtDateLec.TabIndex = 9;
@@ -424,7 +424,7 @@
             // txtNameLec
             // 
             this.txtNameLec.Location = new System.Drawing.Point(158, 54);
-            this.txtNameLec.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtNameLec.Margin = new System.Windows.Forms.Padding(2);
             this.txtNameLec.Name = "txtNameLec";
             this.txtNameLec.Size = new System.Drawing.Size(145, 20);
             this.txtNameLec.TabIndex = 8;
@@ -432,7 +432,7 @@
             // txtIdLec
             // 
             this.txtIdLec.Location = new System.Drawing.Point(158, 28);
-            this.txtIdLec.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtIdLec.Margin = new System.Windows.Forms.Padding(2);
             this.txtIdLec.Name = "txtIdLec";
             this.txtIdLec.Size = new System.Drawing.Size(145, 20);
             this.txtIdLec.TabIndex = 7;
@@ -517,9 +517,9 @@
             this.groupBox2.Controls.Add(this.label3);
             this.groupBox2.Controls.Add(this.label2);
             this.groupBox2.Location = new System.Drawing.Point(268, 18);
-            this.groupBox2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox2.Margin = new System.Windows.Forms.Padding(2);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox2.Padding = new System.Windows.Forms.Padding(2);
             this.groupBox2.Size = new System.Drawing.Size(334, 291);
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
@@ -528,7 +528,7 @@
             // txtAccId
             // 
             this.txtAccId.Location = new System.Drawing.Point(158, 207);
-            this.txtAccId.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtAccId.Margin = new System.Windows.Forms.Padding(2);
             this.txtAccId.Name = "txtAccId";
             this.txtAccId.Size = new System.Drawing.Size(145, 20);
             this.txtAccId.TabIndex = 16;
@@ -536,7 +536,7 @@
             // btnEditLec
             // 
             this.btnEditLec.Location = new System.Drawing.Point(173, 225);
-            this.btnEditLec.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.btnEditLec.Margin = new System.Windows.Forms.Padding(2);
             this.btnEditLec.Name = "btnEditLec";
             this.btnEditLec.Size = new System.Drawing.Size(113, 19);
             this.btnEditLec.TabIndex = 1;
@@ -547,7 +547,7 @@
             // txtPassword
             // 
             this.txtPassword.Location = new System.Drawing.Point(158, 184);
-            this.txtPassword.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtPassword.Margin = new System.Windows.Forms.Padding(2);
             this.txtPassword.Name = "txtPassword";
             this.txtPassword.Size = new System.Drawing.Size(145, 20);
             this.txtPassword.TabIndex = 15;
@@ -555,7 +555,7 @@
             // txtUserName
             // 
             this.txtUserName.Location = new System.Drawing.Point(158, 160);
-            this.txtUserName.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txtUserName.Margin = new System.Windows.Forms.Padding(2);
             this.txtUserName.Name = "txtUserName";
             this.txtUserName.Size = new System.Drawing.Size(145, 20);
             this.txtUserName.TabIndex = 14;
@@ -586,9 +586,9 @@
             this.tabPage1.Controls.Add(this.groupBox2);
             this.tabPage1.Controls.Add(this.groupBox1);
             this.tabPage1.Location = new System.Drawing.Point(4, 25);
-            this.tabPage1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tabPage1.Margin = new System.Windows.Forms.Padding(2);
             this.tabPage1.Name = "tabPage1";
-            this.tabPage1.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tabPage1.Padding = new System.Windows.Forms.Padding(2);
             this.tabPage1.Size = new System.Drawing.Size(620, 497);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Lecturer";
@@ -599,7 +599,7 @@
             // 
             this.dataGridViewInff.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridViewInff.Location = new System.Drawing.Point(12, 330);
-            this.dataGridViewInff.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dataGridViewInff.Margin = new System.Windows.Forms.Padding(2);
             this.dataGridViewInff.Name = "dataGridViewInff";
             this.dataGridViewInff.RowHeadersWidth = 51;
             this.dataGridViewInff.RowTemplate.Height = 24;
@@ -613,9 +613,9 @@
             this.groupBox1.Controls.Add(this.dataGridViewBatch);
             this.groupBox1.Controls.Add(this.label1);
             this.groupBox1.Location = new System.Drawing.Point(12, 18);
-            this.groupBox1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(2);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Padding = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(2);
             this.groupBox1.Size = new System.Drawing.Size(243, 291);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
@@ -630,6 +630,7 @@
             this.label27.Size = new System.Drawing.Size(41, 13);
             this.label27.TabIndex = 4;
             this.label27.Text = "label27";
+            this.label27.Click += new System.EventHandler(this.label27_Click);
             // 
             // label26
             // 
@@ -645,7 +646,7 @@
             // 
             this.dataGridViewBatch.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridViewBatch.Location = new System.Drawing.Point(0, 103);
-            this.dataGridViewBatch.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dataGridViewBatch.Margin = new System.Windows.Forms.Padding(2);
             this.dataGridViewBatch.Name = "dataGridViewBatch";
             this.dataGridViewBatch.RowHeadersWidth = 51;
             this.dataGridViewBatch.RowTemplate.Height = 24;
@@ -658,7 +659,7 @@
             this.tabControl1.Controls.Add(this.tabPage3);
             this.tabControl1.ItemSize = new System.Drawing.Size(56, 21);
             this.tabControl1.Location = new System.Drawing.Point(4, 16);
-            this.tabControl1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.tabControl1.Margin = new System.Windows.Forms.Padding(2);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
             this.tabControl1.Size = new System.Drawing.Size(628, 526);
@@ -726,7 +727,7 @@
             this.ClientSize = new System.Drawing.Size(651, 555);
             this.Controls.Add(this.tabControl1);
             this.Controls.Add(this.menuStrip1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Lecturer";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Lecturer";

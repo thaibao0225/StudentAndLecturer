@@ -10,6 +10,9 @@ namespace StudentAndLecturer2
         Person ALec = new LecturerDB();
         Person AStu = new StudentDB();
         getSetForm getSet = new getSetForm();
+
+        
+
         public Lecturer()
         {
             InitializeComponent();
@@ -47,8 +50,11 @@ namespace StudentAndLecturer2
             txtUserName.Text = dataGridViewInff.Rows[0].Cells[5].Value.ToString();
             txtPassword.Text = dataGridViewInff.Rows[0].Cells[6].Value.ToString();
             txtAccId.Text = dataGridViewInff.Rows[0].Cells[7].Value.ToString();
+
+            var personBuilder = new GetSetBuilder().AddName1(txtNameLec.Text).Build();
+
             getSet.ID1 = txtIdLec.Text;
-            label27.Text = txtNameLec.Text;
+            label27.Text = personBuilder.Name1;
             ShowBatchRegis(); ;
             GetStudentInf();
 
@@ -73,6 +79,10 @@ namespace StudentAndLecturer2
                 ALec.EditAcc(getSet);
                 ALec.Edit(getSet);
                 GetInfLecForm();
+
+                var personBuilder = new GetSetBuilder().AddName1(txtNameLec.Text).Build();
+
+                label27.Text = personBuilder.Name1;
                 MessageBox.Show("completed to upload", "Caution", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             catch
@@ -122,6 +132,11 @@ namespace StudentAndLecturer2
         }
 
         private void tabPage1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label27_Click(object sender, EventArgs e)
         {
 
         }
