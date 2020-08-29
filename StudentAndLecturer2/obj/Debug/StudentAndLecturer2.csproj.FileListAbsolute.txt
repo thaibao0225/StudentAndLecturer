@@ -16,7 +16,6 @@ C:\tai lieu\advance programingNhu\StudentAndLecturer2\StudentAndLecturer2\bin\De
 C:\tai lieu\advance programingNhu\StudentAndLecturer2\StudentAndLecturer2\bin\Debug\StudentAndLecturer2.exe
 C:\tai lieu\advance programingNhu\StudentAndLecturer2\StudentAndLecturer2\bin\Debug\StudentAndLecturer2.pdb
 C:\tai lieu\advance programingNhu\StudentAndLecturer2\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.csprojAssemblyReference.cache
-C:\tai lieu\advance programingNhu\StudentAndLecturer2\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.Form1.resources
 C:\tai lieu\advance programingNhu\StudentAndLecturer2\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.FormAdmin.resources
 C:\tai lieu\advance programingNhu\StudentAndLecturer2\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.Lecturer.resources
 C:\tai lieu\advance programingNhu\StudentAndLecturer2\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.Student.resources
@@ -26,3 +25,74 @@ C:\tai lieu\advance programingNhu\StudentAndLecturer2\StudentAndLecturer2\obj\De
 C:\tai lieu\advance programingNhu\StudentAndLecturer2\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.csproj.CoreCompileInputs.cache
 C:\tai lieu\advance programingNhu\StudentAndLecturer2\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.exe
 C:\tai lieu\advance programingNhu\StudentAndLecturer2\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.pdb
+C:\tai lieu\advance programingNhu\StudentAndLecturer2\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.LoginForm.resources
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - Copy\StudentAndLecturer2\bin\Debug\StudentAndLecturer2.exe.config
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - Copy\StudentAndLecturer2\bin\Debug\StudentAndLecturer2.exe
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - Copy\StudentAndLecturer2\bin\Debug\StudentAndLecturer2.pdb
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - Copy\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.csprojAssemblyReference.cache
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - Copy\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.LoginForm.resources
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - Copy\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.FormAdmin.resources
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - Copy\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.Lecturer.resources
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - Copy\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.Student.resources
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - Copy\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.Menu.resources
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - Copy\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.Properties.Resources.resources
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - Copy\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.csproj.GenerateResource.cache
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - Copy\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.csproj.CoreCompileInputs.cache
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - Copy\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.exe
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - Copy\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.pdb
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - Copy - Copy\StudentAndLecturer2\bin\Debug\StudentAndLecturer2.exe.config
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - Copy - Copy\StudentAndLecturer2\bin\Debug\StudentAndLecturer2.exe
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - Copy - Copy\StudentAndLecturer2\bin\Debug\StudentAndLecturer2.pdb
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - Copy - Copy\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.csprojAssemblyReference.cache
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - Copy - Copy\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.LoginForm.resources
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - Copy - Copy\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.FormAdmin.resources
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - Copy - Copy\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.Lecturer.resources
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - Copy - Copy\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.Student.resources
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - Copy - Copy\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.Menu.resources
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - Copy - Copy\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.Properties.Resources.resources
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - Copy - Copy\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.csproj.GenerateResource.cache
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - Copy - Copy\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.csproj.CoreCompileInputs.cache
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - Copy - Copy\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.exe
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - Copy - Copy\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.pdb
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.csprojAssemblyReference.cache
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.LoginForm.resources
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.FormAdmin.resources
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.Lecturer.resources
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.Student.resources
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.Menu.resources
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.Properties.Resources.resources
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.csproj.GenerateResource.cache
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.csproj.CoreCompileInputs.cache
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.exe
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.pdb
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - ASM\StudentAndLecturer2\bin\Debug\StudentAndLecturer2.exe.config
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - ASM\StudentAndLecturer2\bin\Debug\StudentAndLecturer2.exe
+C:\tai lieu\advance programingNhu\StudentAndLecturer2 - ASM\StudentAndLecturer2\bin\Debug\StudentAndLecturer2.pdb
+C:\Users\QuynhNhu\Desktop\anh\StudentAndLecturer2 - ASM\StudentAndLecturer2\bin\Debug\StudentAndLecturer2.exe.config
+C:\Users\QuynhNhu\Desktop\anh\StudentAndLecturer2 - ASM\StudentAndLecturer2\bin\Debug\StudentAndLecturer2.exe
+C:\Users\QuynhNhu\Desktop\anh\StudentAndLecturer2 - ASM\StudentAndLecturer2\bin\Debug\StudentAndLecturer2.pdb
+C:\Users\QuynhNhu\Desktop\anh\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.csprojAssemblyReference.cache
+C:\Users\QuynhNhu\Desktop\anh\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.LoginForm.resources
+C:\Users\QuynhNhu\Desktop\anh\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.FormAdmin.resources
+C:\Users\QuynhNhu\Desktop\anh\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.Lecturer.resources
+C:\Users\QuynhNhu\Desktop\anh\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.Student.resources
+C:\Users\QuynhNhu\Desktop\anh\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.Menu.resources
+C:\Users\QuynhNhu\Desktop\anh\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.Properties.Resources.resources
+C:\Users\QuynhNhu\Desktop\anh\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.csproj.GenerateResource.cache
+C:\Users\QuynhNhu\Desktop\anh\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.csproj.CoreCompileInputs.cache
+C:\Users\QuynhNhu\Desktop\anh\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.exe
+C:\Users\QuynhNhu\Desktop\anh\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.pdb
+C:\Users\Admin\Documents\Zalo Received Files\StudentAndLecturer2 - ASM\StudentAndLecturer2 - ASM\StudentAndLecturer2\bin\Debug\StudentAndLecturer2.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\StudentAndLecturer2 - ASM\StudentAndLecturer2 - ASM\StudentAndLecturer2\bin\Debug\StudentAndLecturer2.exe
+C:\Users\Admin\Documents\Zalo Received Files\StudentAndLecturer2 - ASM\StudentAndLecturer2 - ASM\StudentAndLecturer2\bin\Debug\StudentAndLecturer2.pdb
+C:\Users\Admin\Documents\Zalo Received Files\StudentAndLecturer2 - ASM\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\StudentAndLecturer2 - ASM\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.LoginForm.resources
+C:\Users\Admin\Documents\Zalo Received Files\StudentAndLecturer2 - ASM\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.FormAdmin.resources
+C:\Users\Admin\Documents\Zalo Received Files\StudentAndLecturer2 - ASM\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.Lecturer.resources
+C:\Users\Admin\Documents\Zalo Received Files\StudentAndLecturer2 - ASM\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.Student.resources
+C:\Users\Admin\Documents\Zalo Received Files\StudentAndLecturer2 - ASM\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.Menu.resources
+C:\Users\Admin\Documents\Zalo Received Files\StudentAndLecturer2 - ASM\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.Properties.Resources.resources
+C:\Users\Admin\Documents\Zalo Received Files\StudentAndLecturer2 - ASM\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Zalo Received Files\StudentAndLecturer2 - ASM\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\StudentAndLecturer2 - ASM\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.exe
+C:\Users\Admin\Documents\Zalo Received Files\StudentAndLecturer2 - ASM\StudentAndLecturer2 - ASM\StudentAndLecturer2\obj\Debug\StudentAndLecturer2.pdb

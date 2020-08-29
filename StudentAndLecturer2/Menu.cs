@@ -1,12 +1,5 @@
 ﻿using StudentAndLecturer2.Properties;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace StudentAndLecturer2
@@ -18,12 +11,12 @@ namespace StudentAndLecturer2
             InitializeComponent();
         }
 
-        
+
 
         private void button1_Click(object sender, EventArgs e) // admin
         {
             // chon 1
-            trash.choose = 1;
+            Process.choose = 1;
             nextLogin();
 
 
@@ -32,27 +25,35 @@ namespace StudentAndLecturer2
         private void button3_Click(object sender, EventArgs e)
         {
             // chon 2
-            trash.choose = 2;
+            Process.choose = 2;
             nextLogin();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             // chon 3
-            trash.choose = 3;
+            Process.choose = 3;
             nextLogin();
         }
 
         private void nextLogin()
         {
             this.Hide();
-            trash.createAdmin();
-
-            trash.fff.ShowDialog();
-            
+            LoginForm login = new LoginForm();
+            login.ShowDialog();
         }
 
         private void button4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Menu_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void Menu_Load(object sender, EventArgs e)
         {
 
         }
